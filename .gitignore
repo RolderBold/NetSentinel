@@ -1,0 +1,11 @@
+.venv/
+venv/
+__pycache__/
+.streamlit/secrets.toml
+*.pyc
+netsentinel_scored_flows.csv
+netsentinel_demo_flows.csv
+netsentinel_data/
+UNSW_NB15_*.csv
+*.csv
+report/

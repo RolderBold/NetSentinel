@@ -1,0 +1,8 @@
+streamlit>=1.50,<2.0
+altair>=5,<7
+tensorflow==2.21.0
+scikit-learn==1.6.1
+joblib>=1.3,<2.0
+dill>=0.3.8,<1.0
+pandas>=2.0,<3.0
+numpy>=1.26,<2.2
